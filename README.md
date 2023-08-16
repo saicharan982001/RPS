@@ -1,2 +1,2 @@
 # RPS
-Rock Paper Scissor game using HTML, CSS JAVASCRIPT
+Rock Paper Scissor game using HTML, CSS, JAVASCRIPT
